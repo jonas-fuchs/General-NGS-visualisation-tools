@@ -13,4 +13,4 @@ Creates a coverage plot for each nucleotide. Specifically useful for viruses. Ca
 Coverage plot/Coverage.R
 ```
 
-![Example output](https://github.com/jonas-fuchs/General-NGS-visualisation-tools/tree/main/Coverage%20plot/Coverage.png)
+![Example output](https://github.com/jonas-fuchs/General-NGS-visualisation-tools/tree/main/Coverage%20plot/Coverage.PNG)
